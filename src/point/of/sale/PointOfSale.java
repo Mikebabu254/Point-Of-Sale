@@ -7,7 +7,9 @@ package point.of.sale;
 /**
  *
  * @author mike
- * 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
+ * old key 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
+ * 
+ * new key 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
  */
 public class PointOfSale {
 
