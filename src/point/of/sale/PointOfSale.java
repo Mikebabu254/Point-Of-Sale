@@ -6,7 +6,8 @@ package point.of.sale;
 
 /**
  *
- * @author user
+ * @author mike
+ * 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
  */
 public class PointOfSale {
 
